@@ -13,7 +13,7 @@
   
 ## Programming Languages
 What I use the most is 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&for-the-badge&logo=Python&logoColor=yellow"> 
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&for-the-badge&logo=Python&logoColor=ffdd54"> 
 
 Once I've used
 <img src="https://img.shields.io/badge/-C++-000000?style=flat-square&for-the-badge&logo=c%2B%2B"> 
