@@ -11,7 +11,7 @@
 - Email: thdal147@naver.com
 - Github: https://github.com/ssongm2
   
-## Programming Languages
+## Programming Language
 What I use the most is 
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&for-the-badge&logo=Python&logoColor=ffdd54"> 
 
