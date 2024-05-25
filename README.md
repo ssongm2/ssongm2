@@ -1,5 +1,5 @@
 <div align="center">
-  <img src = "https://github.com/ssongm2/ssongm2/assets/157574142/6bb7042e-f499-41d1-907f-25bbd611b980" />
+  <img src = "https://github.com/ssongm2/ssongm2/assets/157574142/e7b0e88e-66bf-48a1-a5ab-a733ce056b0a" />
 </div>
 
 ## Hi there 👋
