@@ -24,6 +24,15 @@ Once I've used
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&for-the-badge&logo=numpy&logoColor=whit"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-%23E4EDF0.svg?style=flat-square&for-the-badge&logo=Matplotlib&logoColor=black"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&for-the-badge&logo=scikit-learn&logoColor=white">
 <img src = "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&for-the-badge&logo=PyTorch&logoColor=white">
 
+## Projects
+- 2024.03 ~ Present 생리적 졸음 조기 검출 프로젝트
+- 2023.11 ~ 2023.12 영상 딥페이크 판별 모델
+- 2023.11 ~ 2023.11 언어 감수성 분석을 위한 데이터셋 구축 및 모델 개발 논문 작성
+  - *An Engineering Approach to Datasets and Models for Language Sensitivity*
+  - *2023.11.29 ~ 2023.12.01* ICT 플랫폼 학회
+- 2023.06 ~ 2023.08 언어 감수성 분석 프로젝트
+- 2022.08 ~ 2022.08 심리 성향 예측 알고리즘
+
 ## Extracurricular Activities
 - *2024.01 ~ 2024.02* LG Aimers/Data Intelligence 교육 이수
 - *2023.06 ~ 2023.08* 데이터 청년 캠퍼스, 한국외국어대학교 자연어처리과정 수료
