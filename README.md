@@ -26,7 +26,7 @@ Once I've used
 
 ## Extracurricular Activities
 - *2024.01 ~ 2024.02* LG Aimers/Data Intelligence 교육 이수
-- *2023.06 ~ 2023.08* 데이터 청년 캠퍼스, 한국외국어대학교 자연어처리과정 이수
+- *2023.06 ~ 2023.08* 데이터 청년 캠퍼스, 한국외국어대학교 자연어처리과정 수료
 - ***2021.06 ~ Present* 데이터 분석 동아리(파이썬, ML/DL, 논문 리뷰)**
 
 ## Awards
