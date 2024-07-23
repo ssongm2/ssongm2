@@ -16,7 +16,7 @@ What I use the most is
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&for-the-badge&logo=Python&logoColor=ffdd54"> 
 
 Once I've used
-<img src="https://img.shields.io/badge/-C++-000000?style=flat-square&for-the-badge&logo=c%2B%2B"> 
+<img src="https://img.shields.io/badge/-C-000000?style=flat-square&for-the-badge&logo=c%2B%2B"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&for-the-badge&logo=mysql&logoColor=white"> 
 <img src = "https://img.shields.io/badge/Rstudio-%237EB6C9.svg?style=flat-square&for-the-badge&logo=Rstudio&logoColor=white">
 
