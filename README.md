@@ -10,6 +10,7 @@
 ## Contact
 - Email: thdal147@naver.com
 - Github: https://github.com/ssongm2
+- Tistory: https://potatopancakes.tistory.com/
   
 ## Programming Language
 What I use the most is 
