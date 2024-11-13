@@ -26,7 +26,7 @@ Once I've used
 <img src = "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&for-the-badge&logo=PyTorch&logoColor=white">
 
 ## Projects
-- 2024.03 ~ Present 생리적 졸음 조기 검출 프로젝트
+- 2024.03 ~ 2024.11 생리적 졸음 조기 검출 프로젝트
 - 2023.11 ~ 2023.12 영상 딥페이크 판별 모델
 - 2023.06 ~ 2023.08 언어 감수성 분석을 위한 데이터셋 구축 및 모델 개발
 - 2022.08 ~ 2022.08 심리 성향 예측 알고리즘
