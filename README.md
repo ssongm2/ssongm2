@@ -3,7 +3,7 @@
 </div>
 
 ## Education
-- *2020.03 ~ 2025.02* | B.S. Department of Human-Centered Artificial Intelligence at Sangmyung University**
+- *2020.03 ~ 2025.02* | B.S. Department of Human-Centered Artificial Intelligence at Sangmyung University
 - *2017.03 ~ 2020.02* | Yonghwa Girls' High School
 
 
