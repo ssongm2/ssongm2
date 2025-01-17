@@ -2,6 +2,10 @@
   <img src = "https://github.com/ssongm2/ssongm2/assets/157574142/e7b0e88e-66bf-48a1-a5ab-a733ce056b0a" />
 </div>
 
+## CV
+[[CV] SiHyeon-Yang.pdf](https://github.com/user-attachments/files/18447963/CV.SiHyeon-Yang.pdf)
+
+
 ## Education
 - *2020.03 ~ 2025.02* | B.S. Department of Human-Centered Artificial Intelligence at Sangmyung University
 - *2017.03 ~ 2020.02* | Yonghwa Girls' High School
