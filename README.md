@@ -2,9 +2,8 @@
   <img src = "https://github.com/ssongm2/ssongm2/assets/157574142/e7b0e88e-66bf-48a1-a5ab-a733ce056b0a" />
 </div>
 
-## Education
-- *2020.03 ~ 2025.02* | B.S. Department of Human-Centered Artificial Intelligence at Sangmyung University
-- *2017.03 ~ 2020.02* | Yonghwa Girls' High School
+## CV
+Here’s my [CV](https://github.com/ssongm2/ssongm2/blob/main/%5BCV%5D%20SiHyeon-Yang.pdf) if you’re interested!
 
 ## Contact
 - Email: thdal147@naver.com
@@ -24,11 +23,6 @@ What I use the most is
 - 2023.12 ~ 2023.12 영상 딥페이크 판별 모델
 - 2023.06 ~ 2023.08 언어 감수성 분석을 위한 데이터셋 구축 및 모델 개발
 - 2022.08 ~ 2022.08 심리 성향 예측 알고리즘
-
-## Extracurricular Activities
-- *2024.01 ~ 2024.02* LG Aimers/Data Intelligence 교육 이수
-- *2023.06 ~ 2023.08* 데이터 청년 캠퍼스, 한국외국어대학교 자연어처리과정 수료
-- *2021.06 ~ 2024.11* 데이터 분석 동아리(파이썬, ML/DL, 논문 리뷰)
 
 ## Awards
 - *2024.12* 캡스톤 디자인 경진대회, 최우수상
