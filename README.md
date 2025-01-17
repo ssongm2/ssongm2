@@ -2,7 +2,7 @@
   <img src = "https://github.com/ssongm2/ssongm2/assets/157574142/e7b0e88e-66bf-48a1-a5ab-a733ce056b0a" />
 </div>
 
-**Here’s my [CV](https://github.com/ssongm2/ssongm2/blob/main/%5BCV%5D%20SiHyeon-Yang.pdf) if you’re interested!**
+**Here’s my [[CV]](https://github.com/ssongm2/ssongm2/blob/main/%5BCV%5D%20SiHyeon-Yang.pdf) if you’re interested!**
 
 ## Contact
 - Email: thdal147@naver.com
