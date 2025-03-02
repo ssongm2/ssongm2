@@ -20,7 +20,7 @@ M.S | Sungkyunkwan University, Department of Applied Artificial Intelligence (20
 - *2023.12* 국방 AI 경진대회 일반인 부문, 3등
 - *2023.02* 상명 창의융복합 통합성과대회, 장려상
 
-## Study
+## Study✏️
 Data analysis Club, BAMBOO [(link)](https://smu-bamboo.com/)🎍 (2021.06 ~ 2024.10)
 - Python, Machine Learning, Deep Learning
 - Paper Review
